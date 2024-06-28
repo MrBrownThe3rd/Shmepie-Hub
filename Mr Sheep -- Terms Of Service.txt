@@ -1,0 +1,7 @@
+Mr Sheep -- Terms Of Service
+
+1) I will not resell / distribute any Shmepie Software under a different name
+2) I will use Shmepie Software as intended and not abuse any Shmepie Servers (More info can be found in the official Shmepie TOS doc)
+3) I will not edit any shmepie code unless released on github
+4) I will not try stress test or spam the Shmepie help line server (Built into all Shmepie Software)
+5) I will not report any fake bugs
