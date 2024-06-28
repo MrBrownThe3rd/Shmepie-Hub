@@ -1,2 +1,3 @@
 # Shmepie-Hub
-Shmepie.co
+
+Shmepie is a small develoupment team built to make every day challanges easier.
